@@ -35,6 +35,5 @@ The objective of this project is to transform raw healthcare data into an intera
 * `Dashboard.png` — Dashboard preview
 * `Screenshots/` — Additional dashboard views
 
-## 👤 Author
 
 Abhishek Kumar
